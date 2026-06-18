@@ -4,7 +4,7 @@ This example demonstrates how to generate symbolic facts from simulation logs an
 
 ## Usage
     File Name: Learning.py
-    Execution : Python3 Learning.py
+    Execution : python3 Learning.py
 
 ```python
 from util import *

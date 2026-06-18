@@ -1,10 +1,10 @@
 # BMT_Experiments
 
-
-
 This example demonstrates how to generate symbolic facts from simulation logs and learn logical rules automatically.
 
 ## Usage
+    File Name: Learning.py
+    Execution : Python3 Learning.py
 
 ```python
 from util import *

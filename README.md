@@ -13,11 +13,11 @@ bk_path = "BK.pl"
 hypothesis_files = "rules.txt"
 
 file_path_log = [
-    "../260605_examples/log_0.txt",
-    "../260605_examples/log_1.txt",
-    "../260605_examples/log_2.txt",
-    "../260605_examples/log_3.txt",
-    "../260605_examples/log_4.txt",
+    "260605_examples/log_0.txt",
+    "260605_examples/log_1.txt",
+    "260605_examples/log_2.txt",
+    "260605_examples/log_3.txt",
+    "260605_examples/log_4.txt",
 ]
 
 # Generate facts and examples from logs
